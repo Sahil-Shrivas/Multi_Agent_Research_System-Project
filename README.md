@@ -170,9 +170,9 @@ Multi_Agent_Research_System-Project/
 
 # 📸 Project Screenshots
 
-## 🏠 Complete Project Structure
+## 🏠 Application Interface
 
-![Project Structure](Screenshots/Screenshot1.png)
+![Application UI](Screenshots/Screenshot1.png)
 
 ---
 
@@ -194,9 +194,9 @@ Multi_Agent_Research_System-Project/
 
 ---
 
-## 🎨 Application Interface
+## 🎨 Complete Project Structure
 
-![Application UI](Screenshots/Screenshot5.png)
+![Project Structure](Screenshots/Screenshot5.png)
 
 ---
 
