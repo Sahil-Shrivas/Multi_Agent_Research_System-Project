@@ -16,7 +16,7 @@ using an intelligent collaborative architecture.
 
 # 🔗 GitHub Repository
 
-:contentReference[oaicite:0]{index=0}
+https://github.com/Sahil-Shrivas/Multi_Agent_Research_System-Project.git
 
 ---
 
@@ -172,25 +172,31 @@ Multi_Agent_Research_System-Project/
 
 ## 🏠 Complete Project Structure
 
-```md
 ![Project Structure](Screenshots/Screenshot1.png)
-```
 
 ---
 
 ## 🤖 Multi-Agent Workflow
 
-```md
 ![Multi Agent Workflow](Screenshots/Screenshot2.png)
-```
 
 ---
 
 ## 🌐 Automated Research Process
 
-```md
 ![Research Process](Screenshots/Screenshot3.png)
-```
+
+---
+
+## 📊 AI Generated Research Output
+
+![Research Output](Screenshots/Screenshot4.png)
+
+---
+
+## 🎨 Application Interface
+
+![Application UI](Screenshots/Screenshot5.png)
 
 ---
 
@@ -454,7 +460,7 @@ If you found this project useful:
 # 📬 Contact
 
 📧 GitHub Profile:  
-:contentReference[oaicite:1]{index=1}
+https://github.com/Sahil-Shrivas
 
 ---
 
