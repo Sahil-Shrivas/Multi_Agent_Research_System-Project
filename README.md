@@ -200,14 +200,6 @@ Multi_Agent_Research_System-Project/
 
 ---
 
-## 📊 AI Generated Research Output
-
-```md
-![Research Output](Screenshots/Screenshot4.png)
-```
-
----
-
 # ⚙️ Installation Guide
 
 ## 1️⃣ Clone the Repository
